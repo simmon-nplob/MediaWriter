@@ -1,6 +1,5 @@
 # Andrea Young Oak Li <youli@redhat.com>, 2016. #zanata
-# simmon <simmon@nplob.com>, 2021.
-# 김인수 <simmon@nplob.com>, 2022, 2023, 2024.
+# 김인수 <simmon@nplob.com>, 2021, 2022, 2023, 2024.
 # Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2024.
 msgid ""
 msgstr ""
